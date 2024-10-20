@@ -4,6 +4,6 @@ A simple weather application that allows users to check the current weather and 
 
 ## Features
 
-    - Search by City: Enter a city name to get the current weather and a 5-day forecast.
-    - Use Current Location: Automatically fetch the weather for your current location.
-    - Responsive Design: The app is fully responsive, optimized for both desktop and mobile devices.
+- Search by City: Enter a city name to get the current weather and a 5-day forecast.
+- Use Current Location: Automatically fetch the weather for your current location.
+- Responsive Design: The app is fully responsive, optimized for both desktop and mobile devices.
